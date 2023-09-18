@@ -1,7 +1,7 @@
 # cv_quete1
 *Ceci devrais etre un cv en markdown*
 
-*en fait je suis censée ecrire un cv en markdown, cet exercice est pourri et je ne me sens pas concernée surtout vu l'inutilitée d'écrire un cv en markdown, je suis sure que personne ne fais sa.*
+
 
  **je vais me contenter de vous montrer ce que je sais sur le markdown**
 
